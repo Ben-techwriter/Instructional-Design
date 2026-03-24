@@ -19,4 +19,6 @@
 - Feedback layers  
 
 **Slide 5 — Summary**  
-- Recap key concepts  
+- Recap key concepts
+
+- Preview the "[Introduction to Modular Learning!](https://rise.articulate.com/authoring/pGpKldsUd-losYuhw-E1h0-dJ1wUVVeC/preview)" created on Rise Articulate Storyboard
