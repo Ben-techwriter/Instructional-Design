@@ -11,9 +11,9 @@ This project is designed to demonstrate the complete ID workflow:
 - Delivery
 
 ## What This Repository Contains
-- Learning Objectives aligned to Blooms Taxonomy
-- Storyboard showcasing audio visuals and interactions
-- Design rationale showcasing the choice of design and strategy
+- [Learning Objectives!](https://github.com/Ben-techwriter/Instructional-Design/blob/main/learningobjectives.md) aligned to Blooms Taxonomy
+- [Storyboard!](https://github.com/Ben-techwriter/Instructional-Design/blob/main/Storyboard.md) showcasing audio visuals and interactions
+- [Design!](https://github.com/Ben-techwriter/Instructional-Design/blob/main/designrationale.md) rationale showcasing the choice of design and strategy
 
 
 
