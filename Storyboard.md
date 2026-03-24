@@ -21,6 +21,8 @@
 **Slide 5 — Summary**  
 - Recap key concepts
 
-- Preview the "[Introduction to Modular Learning!](https://rise.articulate.com/authoring/pGpKldsUd-losYuhw-E1h0-dJ1wUVVeC/preview)" created on Rise Articulate Storyboard or the [PDF version!](file:///C:/Users/Benila%20susan/Downloads/introduction-to-modular-course-design-essentials-for-instructional-designers-5JE1RfpE.pdf).
+- Preview the "[Introduction to Modular Learning!](https://rise.articulate.com/authoring/pGpKldsUd-losYuhw-E1h0-dJ1wUVVeC/preview)" created on Rise Articulate Storyboard or the PDF version
+-<iframe src="file:///C:/Users/Benila%20susan/Downloads/introduction-to-modular-course-design-essentials-for-instructional-designers-5JE1RfpE.pdf" width="100%" height="600px" style="border: none;"></iframe>
+
 
 - Also view the course created on [Figma!](https://www.figma.com/make/8TGmaI4Qsko9kYHnpsELhf/eLearning-Storyboard-Creation?p=f&t=B8jMu6FRo4TwYYJl-0&fullscreen=1&preview-route=%2Fslide-1)
