@@ -21,6 +21,9 @@
 **Slide 5 — Summary**  
 - Recap key concepts
 
-- Preview the "[Introduction to Modular Learning!](https://rise.articulate.com/authoring/pGpKldsUd-losYuhw-E1h0-dJ1wUVVeC/preview)" created on Rise Articulate Storyboard. Alternatively check this [link!](https://rise.articulate.com/author/pGpKldsUd-losYuhw-E1h0-dJ1wUVVeC#download/cmlzZS9wYWNrYWdlcy9wR3BLbGRzVWQtbG9zWXVody1FMWgwLWRKMXdVVlZlQy84S29KSGR1bC5wZGY=)
+
+## Output 
+
+Preview the "[Introduction to Modular Learning!](https://rise.articulate.com/authoring/pGpKldsUd-losYuhw-E1h0-dJ1wUVVeC/preview)" created on Rise Articulate Storyboard. Alternatively check this [link!](https://rise.articulate.com/author/pGpKldsUd-losYuhw-E1h0-dJ1wUVVeC#download/cmlzZS9wYWNrYWdlcy9wR3BLbGRzVWQtbG9zWXVody1FMWgwLWRKMXdVVlZlQy84S29KSGR1bC5wZGY=)
 
 - Also view the course created on [Figma!](https://www.figma.com/make/8TGmaI4Qsko9kYHnpsELhf/eLearning-Storyboard-Creation?p=f&t=B8jMu6FRo4TwYYJl-0&fullscreen=1&preview-route=%2Fslide-1)
